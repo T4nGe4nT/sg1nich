@@ -3,3 +3,5 @@ git pull - Pulls updates from remote repo.
 git checkout -b = both creates a new branch and switches to that branch
 
 git push - Pushes the changes to the romote repo.
+
+git commit = takes snapshot of changes to prepare for a push 
